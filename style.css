@@ -1,0 +1,23 @@
+body{
+	background: #fff url(img/fundo.jpg);
+	height: 95vh;
+	width: 95;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: red;
+}
+
+h1{
+	background: #000;
+	border-radius: 12px;
+	border: 2px solid red;
+	border-spacing: 2px;
+	bor
+}
+
+canvas{
+	border: 2px solid red;
+	border-radius: 12px;
+}
